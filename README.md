@@ -30,8 +30,8 @@ All core algorithms and business logic are independently designed and coded by t
 - Python 3.8 及以上版本
 - 仅使用Python内置标准库，无需额外安装第三方依赖
 - 程序启动命令：
-```bash
 python main.py
+
 ###English
 Python 3.8 or higher version
 Only built-in standard libraries are adopted, no extra third-party dependencies required
