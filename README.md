@@ -1,3 +1,4 @@
+# 纯标准README.md，修正代码块格式，无多余嵌套
 # 家庭用电节能分析系统 | Household Energy Saving Analysis System
 ## ICC Global Invention Convention Entry Project
 
@@ -29,19 +30,24 @@ All core algorithms and business logic are independently designed and coded by t
 ### 中文
 - Python 3.8 及以上版本
 - 仅使用Python内置标准库，无需额外安装第三方依赖
-- 程序启动命令：
+- 启动命令
+```bash
 python main.py
+```
 
-###English
-Python 3.8 or higher version
-Only built-in standard libraries are adopted, no extra third-party dependencies required
-Run command:
+### English
+- Python 3.8 or higher version
+- Only built-in standard libraries are adopted, no extra third-party dependencies required
+- Run command
+```bash
 python main.py
-##4. 开源与版权说明 | Open Source & Copyright Statement
-###中文
-本项目基于MIT（麻省理工学院）开源许可证公开源代码，任何个人与机构均可免费使用、修改、分发、商用本软件；所有副本、衍生版本必须完整保留本版权声明。
+```
+
+## 4. 开源与版权说明 | Open Source & Copyright Statement
+### 中文
+本项目基于**MIT（麻省理工学院）开源许可证**公开源代码，任何个人与机构均可免费使用、修改、分发、商用本软件；所有副本、衍生版本必须完整保留本版权声明。
 版权所有 © 2026 徐晨凯（Chenkai Xu）、刘慕阳（Muyang Liu）
-###English
-This project is open-sourced under the MIT License. Any individual or organization is allowed to use, modify, distribute and commercially apply this software for free, on the premise that the original copyright notice must be retained in all copies and derivative works.
-Copyright (c) 2026 Chenkai Xu, Muyang Liu
 
+### English
+This project is open-sourced under the **MIT License**. Any individual or organization is allowed to use, modify, distribute and commercially apply this software for free, on the premise that the original copyright notice must be retained in all copies and derivative works.
+Copyright (c) 2026 Chenkai Xu, Muyang Liu
