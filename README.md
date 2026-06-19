@@ -1,4 +1,4 @@
-# 纯标准README.md，修正代码块格式，无多余嵌套
+
 # 家庭用电节能分析系统 | Household Energy Saving Analysis System
 ## ICC Global Invention Convention Entry Project
 
